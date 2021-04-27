@@ -1,0 +1,8 @@
+vaderSentiment
+requests
+BeautifulSoup
+pandas
+numpy
+os
+nltk
+contractions
